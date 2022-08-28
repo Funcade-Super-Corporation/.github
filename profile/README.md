@@ -1,6 +1,6 @@
 ## yo
 
-![Our hq](../newhq.png "Our hq")
+![Our hq](./jsjksjs.png "Our hq")
 
 we're funcade super corporation we develop things like
 - funcade app
