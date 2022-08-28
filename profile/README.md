@@ -1,6 +1,6 @@
 ## yo
 
-![Our hq](https://raw.githubusercontent.com/Funcade-Super-Corporation/.github/main/profile/jsjksjs.png "Our hq")
+![Our hq](https://raw.githubusercontent.com/Funcade-Super-Corporation/.github/main/profile/jj.png "Our hq")
 
 we're funcade super corporation we develop things like
 - funcade app
