@@ -5,7 +5,7 @@
 we're funcade super corporation we develop things like
 - funcade app
 - epokengine (what powers funcade)
-- funcade epok server platform
+- funcloud
 - funcadeOS
 - funcade super corporation innovative digital advertisement service that gives us way more money than anything else so we don't go bankrupt 
 
@@ -21,3 +21,4 @@ our team
 - oidikerit
 - Mathaiyas Zfather
 - Sawball
+- CrownIR
